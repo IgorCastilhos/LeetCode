@@ -48,7 +48,7 @@ var search = function (nums, target) {
     return -1;
 };
 
-var search2 = function(nums, target) {
+var search = function(nums, target) {
     let left = 0;
     let right = nums.length - 1;
 
